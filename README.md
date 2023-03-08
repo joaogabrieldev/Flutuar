@@ -25,7 +25,7 @@
 ## :tv: Demonstração
 
 <p align="center">
-  <img alt="Demonstração" src="readme/demo.png" width="600">
+  <img alt="Demonstração" src="readme/demo.png" width="800">
 </p>
 
 
