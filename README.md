@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><img src="readme/Favicon.svg" width="50px"></p>
 
 <div align="center">
